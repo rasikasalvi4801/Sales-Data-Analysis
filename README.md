@@ -2,9 +2,9 @@
 Analysis and dashboard presenting the sales data of the global superstore dataset.
 
 ## Problem Statement:
-Define proper metrics
-Create a dashboard for the sales data analysing the different metrics.
-Propose Insights
+1. Define proper metrics
+2. Create a dashboard for the sales data analysing the different metrics.
+3. Propose Insights
 
 ## Dataset:
 The dataset used for this task was presented by https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
