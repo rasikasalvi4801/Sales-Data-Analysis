@@ -24,8 +24,8 @@ The dataset used for this task was presented by https://www.kaggle.com/datasets/
 2. What are the top 5 products by profit?
 3. What are the top 5 products by loss?
 4. Markets by sales
-5. Segemnts by sales
-6. Regin wise sales
+5. Segments by sales
+6. Region-wise sales
 7. Top 5 customers contributing to maximum sales.
 
 ## Insights:
